@@ -1,7 +1,9 @@
 # cis120-finalproject
 
 CIS 120 Game Project README
+
 Name: Andrew (Yiqun) Cui
+
 Game: Breakout
 
 
@@ -14,11 +16,13 @@ Run: Terminal (Linux):
   unzip *.zip
   javac -cp junit.jar *.java && java Game
   
+
 Play:
   Spacebar: start game (velocities can only be +/- 2 at most)
   Arrow keys: move from side to side
   n: start new game after losing
-  
+
+
 Instructions:
   Use the bar to hit the ball, bouncing it off to destroy the bricks.
   Some bricks will take more hits to break. Most bricks change colors when hit.
