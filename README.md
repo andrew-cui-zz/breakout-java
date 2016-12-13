@@ -9,10 +9,10 @@ Game: Breakout
 =: Overview of the game :=
 ==========================
 
-Download: files.zip, with the src .java files, four text files, and junit.jar
+Download: files.zip, with the src .java files and LEADERBOARD.TXT/README.TXT
 Run: Terminal (Linux): 
   unzip *.zip; 
-  javac -cp junit.jar *.java && java Game.
+  javac *.java && java Game.
   
 
 Play:
