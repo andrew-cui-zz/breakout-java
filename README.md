@@ -16,8 +16,8 @@ Run: Terminal (Linux):
   
 
 Play:
-  Spacebar: start game (velocities can only be +/- 2 at most); 
-  Arrow keys: move from side to side; 
+  Spacebar: start game (velocities can only be +/- 2 at most). 
+  Arrow keys: move from side to side.
   n: start new game after losing.
 
 
