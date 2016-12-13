@@ -1,9 +1,7 @@
 # cis120-finalproject
 
 CIS 120 Game Project README
-
 Name: Andrew (Yiqun) Cui
-
 Game: Breakout
 
 
@@ -12,15 +10,15 @@ Game: Breakout
 ==========================
 
 Download: files.zip, with the src .java files, four text files, and junit.jar
-Run: Terminal (Linux):
-  unzip *.zip
-  javac -cp junit.jar *.java && java Game
+Run: Terminal (Linux): 
+  unzip *.zip; 
+  javac -cp junit.jar *.java && java Game.
   
 
 Play:
-  Spacebar: start game (velocities can only be +/- 2 at most)
-  Arrow keys: move from side to side
-  n: start new game after losing
+  Spacebar: start game (velocities can only be +/- 2 at most); 
+  Arrow keys: move from side to side; 
+  n: start new game after losing.
 
 
 Instructions:
