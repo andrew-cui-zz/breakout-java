@@ -1,10 +1,8 @@
 # cis120-finalproject
 
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 CIS 120 Game Project README
 Name: Andrew (Yiqun) Cui
 Game: Breakout
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
 
 ==========================
