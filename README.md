@@ -9,7 +9,7 @@ Game: Breakout
 =: Overview of the game :=
 ==========================
 
-Download: files.zip, with the src .java files and LEADERBOARD.TXT/README.TXT
+Download: cis120-finalproject.zip or the rest of the files together.
 Run: Terminal (Linux): 
   unzip *.zip; 
   javac *.java && java Game.
